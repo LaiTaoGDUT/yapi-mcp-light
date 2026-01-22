@@ -1,7 +1,7 @@
 {
   "name": "yapi-mcp-light",
   "version": "0.0.1",
-  "description": "YApi Auto MCP Server - Model Context Protocol server for YApi integration, enables AI tools like Cursor to interact with YApi API documentation",
+  "description": "YApi MCP Light - Model Context Protocol server for YApi integration, enables AI tools like Cursor to interact with YApi API documentation",
   "main": "dist/index.js",
   "bin": {
     "yapi-mcp-light": "dist/cli.js"
